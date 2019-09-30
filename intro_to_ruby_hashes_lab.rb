@@ -18,7 +18,8 @@ def monopoly_with_third_tier
 		   :rent_in_dollars=>
 			 {
 
-				 }
+				 }}
+				 monopoly
 			 end
 
 def monopoly_with_fourth_tier
